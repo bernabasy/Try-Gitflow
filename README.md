@@ -35,8 +35,8 @@ To get a local copy up and running follow these simple steps:
 
 👤 **bernabas yosef**
 
-- GitHub: [@githubhandle](https://github.com/bernabasy)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bernabasjosef/)
+GitHub:[@githubhandle](https://github.com/bernabasy)
+LinkedIn:[LinkedIn](https://www.linkedin.com/in/bernabasjosef/)
 
 
 ## 🤝 Contributing
